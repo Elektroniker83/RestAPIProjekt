@@ -18,7 +18,7 @@ Das Programm ermöglicht es dem Benutzer:
 
 
 
-###########################################################################################################
+##############################################################################
 # Anleitung zur Installation, Kompilierung und Nutzung
 
 ## 1. Installation von Abhängigkeiten
