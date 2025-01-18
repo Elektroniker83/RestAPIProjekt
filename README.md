@@ -1,8 +1,8 @@
-# Projektbeschreibung
+# Projektbeschreibung Rest API Projekt
 
 Dieser Code implementiert ein Programm, das mit zwei verschiedenen APIs arbeitet:
 
-1. **OpenWeatherMap API**: Abfrage von Wetterdaten für eine Ortschaft. Es gibt die aktuelle Temperatur in Celsius und eine Wetterbeschreibung zurück.
+1. **OpenWeatherMap API**: Abfrage von Wetterdaten für eine Ortschaft. Es gibt die aktuelle Temperatur in Celsius und eine Wetterbeschreibung für eine eingegebene Ortschaft zurück.
 2. **Google Maps Geocode API**: Abfrage von Postleitzahlen oder geographischen Koordinaten basierend auf einer Eingabe der gewünschten Ortschaft.
 
 Das Programm ermöglicht es dem Benutzer:
@@ -18,7 +18,7 @@ Das Programm ermöglicht es dem Benutzer:
 
 
 
-##############################################################################
+#########################################################################################
 # Anleitung zur Installation, Kompilierung und Nutzung
 
 ## 1. Installation von Abhängigkeiten
