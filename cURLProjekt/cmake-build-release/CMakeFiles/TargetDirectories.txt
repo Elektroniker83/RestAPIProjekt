@@ -1,0 +1,3 @@
+C:/Uebungen_SE/cURLProjekt/cmake-build-release/CMakeFiles/cURLProjekt.dir
+C:/Uebungen_SE/cURLProjekt/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Uebungen_SE/cURLProjekt/cmake-build-release/CMakeFiles/rebuild_cache.dir
