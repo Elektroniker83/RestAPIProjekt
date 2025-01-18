@@ -1,3 +1,24 @@
+# Projektbeschreibung
+
+Dieser Code implementiert ein Programm, das mit zwei verschiedenen APIs arbeitet:
+
+1. **OpenWeatherMap API**: Abfrage von Wetterdaten für eine Ortschaft. Es gibt die aktuelle Temperatur in Celsius und eine Wetterbeschreibung zurück.
+2. **Google Maps Geocode API**: Abfrage von Postleitzahlen oder geographischen Koordinaten basierend auf einer Eingabe der gewünschten Ortschaft.
+
+Das Programm ermöglicht es dem Benutzer:
+- Eine API auszuwählen.
+- Eine Eingabe zu tätigen (Ortschaft für das Wetter oder Ortschaft für Google Maps).
+- Die entsprechenden Daten (Wetterinformationen oder Postleitzahlen/Koordinaten) anzuzeigen.
+
+## Funktionen
+
+- **Abfrage von Wetterdaten**: Das Programm fragt die OpenWeatherMap API ab, um das Wetter für eine eingegebene Ortschaft abzurufen.
+- **Abfrage von Geodaten**: Das Programm fragt die Google Maps API ab, um Postleitzahlen oder Koordinaten abzurufen.
+- **Anzeige der Ergebnisse**: Das Programm zeigt die abgerufenen Daten in deutscher Sprache an (z. B. Temperatur in Celsius, Wetterbeschreibung, Postleitzahlen oder Koordinaten).
+
+
+
+###########################################################################################################
 # Anleitung zur Installation, Kompilierung und Nutzung
 
 ## 1. Installation von Abhängigkeiten
