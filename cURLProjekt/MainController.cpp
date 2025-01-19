@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// Hauptlogik der Anwendung.
+// Hauptlogik der Anwendung Rest Api Abfrage von OpenWeatherMap und Google Maps.
 void MainController::run() {
     int choice;
 
@@ -50,7 +50,7 @@ void MainController::handleGoogleMapsAPI() {
     std::replace(address.begin(), address.end(), ' ', '+');
 
     int displayChoice;
-    std::cout << "Moechten Sie die Koordinaten oder die Postleitzahl anzeigen lassen?\n1. Koordinaten\n2. Postleitzahl\nGib deine Wahl ein (1/2): \n";
+    std::cout << "Moechten Sie die Koordinaten oder die Postleitzahl anzeigen lassen?\n1. Koordinaten\n2. Postleitzahl\nGeben Sie die Wahl ein (1/2): \n";
     std::cin >> displayChoice;
     bool showCoordinates = (displayChoice == 1);
 
